@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+target/
+outdated-*.txt
+*.iml
+/hapi/nbproject/
+*log
+*idea
+*nbactions.xml
